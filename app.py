@@ -2,7 +2,7 @@ import streamlit as st
 
 st.set_page_config(
     page_title="Mingxi Gu",
-    page_icon="🤖",
+    page_icon="👾",
     layout="centered",  # centered or wide
     initial_sidebar_state="auto",
 ) 
@@ -37,11 +37,21 @@ with col2:
 
 st.markdown(
     """
-# Projects
+# Education
 
-- [Project 1](https://www.google.com)
-- [Project 2](https://www.google.com)
-- [Project 3](https://www.google.com)
+- [University of Arizona](https://www.arizona.edu/)
+- [University of Washington](https://www.washington.edu/)
+
+# Work Experience
+
+- [Resume](https://www.gumingxi.com/resume)
+
+# Interesting Projects
+
+- [Project 1](https://www.gumingxi.com/future-of-mobility-zin-content)
+- [Project 2](https://www.gumingxi.com/internet-archive-content)
+- [Project 3](https://www.gumingxi.com/xinshan-content)
+- [Project 4](https://www.gumingxi.com/the-vera-project-content)
 """
 )
 
